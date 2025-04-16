@@ -1,2 +1,2 @@
 # simple-python-rsa
-Simply RSA implementation in python. Probably not secure.
+Simple RSA implementation in python. Probably not secure.
